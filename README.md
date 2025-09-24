@@ -76,4 +76,4 @@ kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
 dengan menggunakan tag dasar html.</p>
 <img src="Logo-Universitas-Pelita-Bangsa.png" width="200" title="Logo Univeritas Pelita Bangsa">
 </body>
-</html> '''
+</html> 
