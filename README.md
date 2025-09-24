@@ -7,4 +7,4 @@ Kelas: TI.24.A.5 <p>
 ![gambar1](m1.PNG) 
 yang pertama adalah membuat file nya menjadi bentuk html dengan code <!doctype html> <p>
 kemudian membuat title dibagian head, dengan title: Belajar Dasar HTML <p>
-dan membuat paragraf dengan code <p></p> <p>
+dan membuat paragraf dengan code (<p></p>) <p>
