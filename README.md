@@ -19,6 +19,6 @@ Kelas: TI.24.A.5 <p>
 <nav) <p>
 <a href="lab1_tag_dasar.html")Dasar HTML</a) <p>
 <a href="lab1_halaman2.html")Halaman 2</a) <p>
-<a href="http://www.google.com}Halaman Web Eksternal Google</a) <p>
+<a href="http://www.google.com} Halaman Web Eksternal Google</a) <p>
 </nav) <p>
 <hr) <p>
