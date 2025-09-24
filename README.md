@@ -17,8 +17,8 @@ Kelas: TI.24.A.5 <p>
 - kemudian saya sisipkan gambar di bagian body dengan code <img src="Logo-Universitas-Pelita-Bangsa.png" width="200" title="Logo Univeritas Pelita Bangsa") <p>
 - kemudian saya tambahkan hyperlink di bagian head tepat di bawah title dengan code
 - <nav)
-<a href="lab1_tag_dasar.html">Dasar HTML</a)
-<a href="lab1_halaman2.html">Halaman 2</a)
-<a href="http://www.google.com">Halaman Web Eksternal Google</a)
+<a href="lab1_tag_dasar.html")Dasar HTML</a)
+<a href="lab1_halaman2.html")Halaman 2</a)
+<a href="http://www.google.com")Halaman Web Eksternal Google</a)
 </nav)
 <hr) <p>
