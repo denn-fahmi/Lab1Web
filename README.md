@@ -22,3 +22,14 @@ Kelas: TI.24.A.5 <p>
 <a href="http://www.google.com} Halaman Web Eksternal Google</a) <p>
 </nav) <p>
 <hr) <p>
+dan inilah hasilnya
+![gambar4](n3.PNG)
+Jawab Pertanyaan Berikut <p>
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah <p>
+error ketika terjadi kesalahan penulisan tag? <p>
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! <p>
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! <p>
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <p>
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <p>
