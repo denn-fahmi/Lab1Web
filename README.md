@@ -36,5 +36,13 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <p>
 
 ###JAWABAN
 1. tidak terdapat error sama sekali untuk saya, karena saya sudah tau tata letak code yang seharusnya sehingga ketika saya coba sendiri, kode dengan lancar bisa di eksekusi oleh vscode, hanya saja 1 kekurangan saya yaitu vscode punya fitur pengetikan cerdas pada paragraf sehingga terkadang pembuka dan penutup paragraf saya terbalik <p>
-2. <p.>:  digunakan untuk membuat 
-   <br.>: break-line (untuk berpindah ke baris selanjutnya)
+2. p:  digunakan untuk membuat paragraf baru <p>
+   br: break-line (untuk berpindah ke baris selanjutnya) <p>
+3. alt: deskripsi tentang gambar (Teks alternatif jika gambar gagal dimuat) <p>
+   title: judul gambar (Tooltip saat mouse diarahkan ke gambar dan memunculkan nya saat kursor mendekati gambar) <p>
+4. Sebaiknya hanya salah satu yang diisi (biasanya width) agar proporsi gambar tetap terjaga. <p>
+Jika keduanya diisi secara manual, pastikan rasio sesuai dengan ukuran asli gambar. Jika tidak, gambar bisa terlihat terdistorsi. <p>
+5. - _blank: Membuka link di tab atau jendela baru <p>
+   - _self: Membuka link di tab saat ini (default) <p>
+   - _top: Membuka link di frame paling atas (menghapus semua frame) <p>
+   - _parent: Membuka link di frame induk dari frame saat ini <p>
