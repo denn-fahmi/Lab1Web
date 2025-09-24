@@ -48,7 +48,7 @@ Jika keduanya diisi secara manual, pastikan rasio sesuai dengan ukuran asli gamb
    - _top: Membuka link di frame paling atas (menghapus semua frame) <p>
    - _parent: Membuka link di frame induk dari frame saat ini <p>
 ### code keseluruhan
-''' <!doctype html>
+``` <!doctype html>
 <html>
 <head>
     <title>Tag HTML Dasar</title>
