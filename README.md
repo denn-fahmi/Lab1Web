@@ -33,3 +33,8 @@ error ketika terjadi kesalahan penulisan tag? <p>
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <p>
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <p>
+
+###JAWABAN
+1. tidak terdapat error sama sekali untuk saya, karena saya sudah tau tata letak code yang seharusnya sehingga ketika saya coba sendiri, kode dengan lancar bisa di eksekusi oleh vscode, hanya saja 1 kekurangan saya yaitu vscode punya fitur pengetikan cerdas pada paragraf sehingga terkadang pembuka dan penutup paragraf saya terbalik <p>
+2. (<p>)
+   <br>: break-line (untuk berpindah ke baris selanjutnya)
